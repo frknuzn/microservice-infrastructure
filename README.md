@@ -5,16 +5,16 @@ This project is a sample application for Microservice Architecture.
 Technologies Used
 
 •	Java 11 </br>
-•	Spring Boot
-•	Spring Data JPA
-•	Netflix Eureka
-•	Zipkin
-•	Prometheus
-•	Kafka
-•	Micrometer
-•	Lombok
-•	H2
-•	Docker
+•	Spring Boot </br>
+•	Spring Data JPA </br>
+•	Netflix Eureka </br>
+•	Zipkin </br>
+•	Prometheus </br>
+•	Kafka </br>
+•	Micrometer </br>
+•	Lombok </br>
+•	H2 </br>
+•	Docker </br>
 •	Grafana
 
 How does it work?
