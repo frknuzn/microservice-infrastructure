@@ -2,6 +2,8 @@
 
 This project is a sample application for Microservice Architecture.
 
+Microservices is a very big and detailed topic. I am sharing with you this repo I made from what I learned to improve myself.
+
 Technologies Used
 
 •	Java 11 </br>
@@ -73,3 +75,8 @@ And our dashboard is ready :)
 
 
 I hope everything will be fine. Have a nice day :)
+
+
+
+Resources I use
+
