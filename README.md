@@ -4,7 +4,7 @@ This project is a sample application for Microservice Architecture.
 
 Technologies Used
 
-•	Java 11
+•	Java 11 </br>
 •	Spring Boot
 •	Spring Data JPA
 •	Netflix Eureka
