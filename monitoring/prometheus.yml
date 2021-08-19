@@ -6,11 +6,7 @@ scrape_configs:
     metrics_path: '/actuator/prometheus'
     static_configs:
     - targets: ['accounts:8080']
-  - job_name: 'loans'
+  - job_name: 'phones'
     metrics_path: '/actuator/prometheus'
     static_configs:
-    - targets: ['loans:8090']
-  - job_name: 'cards'
-    metrics_path: '/actuator/prometheus'
-    static_configs:
-    - targets: ['cards:9000']
+    - targets: ['phones:9000']
