@@ -80,7 +80,7 @@ I hope everything will be fine. Have a nice day :)
 
 Sources I have read and watched
 
-https://medium.com/javarevisited/hands-on-hexagonal-architecture-with-spring-boot-ca61f88bed8b </br>
+https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/ </br>
 https://www.udemy.com/course/microservices-ddd/ </br>
 https://www.udemy.com/course/apache-kafka-for-developers-using-springboot/ </br>
 https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/ </br>
