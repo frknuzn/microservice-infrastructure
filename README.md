@@ -78,5 +78,9 @@ I hope everything will be fine. Have a nice day :)
 
 
 
-Resources I use
-
+Sources I have read and watched
+https://medium.com/javarevisited/hands-on-hexagonal-architecture-with-spring-boot-ca61f88bed8b
+https://www.udemy.com/course/microservices-ddd/
+https://www.udemy.com/course/apache-kafka-for-developers-using-springboot/
+https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/
+https://12factor.net/
