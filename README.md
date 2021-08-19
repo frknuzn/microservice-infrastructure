@@ -6,6 +6,7 @@ Technologies Used
 
 •	Java 11 </br>
 •	Spring Boot </br>
+•	Spring Cloud </br>
 •	Spring Data JPA </br>
 •	Netflix Eureka </br>
 •	Zipkin </br>
