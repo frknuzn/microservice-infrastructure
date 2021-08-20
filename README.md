@@ -2,7 +2,7 @@
 
 This project is a sample application for Microservice Architecture.
 
-Microservices is a very big and detailed topic. I am sharing with you this repo I made from what I learned to improve myself.
+Microservices is a very big and detailed topic. I am sharing this repo with you I made from what I learned to improve myself.
 
 Technologies Used
 
